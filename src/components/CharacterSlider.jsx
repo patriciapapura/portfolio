@@ -173,11 +173,6 @@ const CharacterSlider = () => {
         →
       </button>
       
-      
-        <div className="scroll-hint">
-          <div className="scroll-arrow">↓</div>
-          <span>Scroll to explore</span>
-        </div>
     </div>
   );
 };
